@@ -1,0 +1,9 @@
+//ignore Netbeans project files
+nbproject/
+build/
+dist/
+*.class
+*.form
+*.jar
+.netbeans_automatic_build
+.netbeans_update_resources
